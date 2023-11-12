@@ -734,6 +734,7 @@
 
 * [hastateam](https://ddt.hastateam.com/) - Manga
 * [Slumberland](https://www.slumberland.it/) - Comic Encyclopedia
+* [LiberLiber](https://www.liberliber.it) - Books
 
 ***
 
